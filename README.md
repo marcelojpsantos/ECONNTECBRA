@@ -1,8 +1,8 @@
-FRAMEWORK Yii2- ADVANCED/PHP 8
+FRAMEWORKYii2- ADVANCED/PHP 8
 
 -------------------------------------------------------------------------------------------------
 #### Referências
-[W3Schools](https://www.yiiframework.com/doc/guide/2.0/en/start-installation)
+[Yii2- ADVANCED](https://www.yiiframework.com/doc/guide/2.0/en/start-installation)
 
 -------------------------------------------------------------------------------------------------
 #### Autora
